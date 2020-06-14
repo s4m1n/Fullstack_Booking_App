@@ -9,7 +9,7 @@ Run the App on the Browser by installing the repo code and running following com
 
 2 -->  npm install
 
-3 --> make a config folder in the root directory and inside it make a 'dev.env' file like as config(folder) -> dev.env(file) .The config file must contain 4 env variables as:
+3 --> Make a config folder in the root directory and inside it make a 'dev.env' file like as config(folder) -> dev.env(file) .The config file must contain 4 env variables as:
  
    SENDGRID_API_KEY=your sendgrid api key
  
@@ -18,11 +18,10 @@ Run the App on the Browser by installing the repo code and running following com
    CLIENT_SECRET=your google client secret
  
    REFRESH_TOKEN=your developer refresh token
-   
-   Keep the server running
+  
  
  
-4 --> npm run dev
+4 --> npm run dev and keep the server running
 
 5 --> Open another terminal
 
