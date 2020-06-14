@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "env-cmd -f ./config/dev.env nodemon app.js"
+  },
+  "author": "Samin Yasar",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "env-cmd": "^10.1.0",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
