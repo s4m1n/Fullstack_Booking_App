@@ -1,5 +1,5 @@
 # Fullstack_Booking_App
-An appointment booking app using Node.js, React and Google Calendar Api
+An appointment booking app using React, Node.js and Google Calendar Api
 
 This project is made by NODEJS, REACT, GOOGLE SEARCH API, and GOOGLE DEVELOPER CONSOLE.
 
